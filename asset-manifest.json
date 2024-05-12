@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shivamjisorya/textUtils.git/static/css/main.22678653.css",
+    "main.js": "/shivamjisorya/textUtils.git/static/js/main.63a4698f.js",
+    "static/js/453.ed3810f9.chunk.js": "/shivamjisorya/textUtils.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/shivamjisorya/textUtils.git/index.html",
+    "main.22678653.css.map": "/shivamjisorya/textUtils.git/static/css/main.22678653.css.map",
+    "main.63a4698f.js.map": "/shivamjisorya/textUtils.git/static/js/main.63a4698f.js.map",
+    "453.ed3810f9.chunk.js.map": "/shivamjisorya/textUtils.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22678653.css",
+    "static/js/main.63a4698f.js"
+  ]
+}
